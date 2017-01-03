@@ -1,2 +1,2 @@
-# MachineLearning_BikeSharingDemand
-W207 Machine Learning Bike Sharing Demand Prediction
+# Machine Learning Projects (W207)
+For W207: Applied Machine Learning (UC Berkeley MIDS program)
